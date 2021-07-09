@@ -1,10 +1,10 @@
 # Image Finder App / App de Busca de Imagem
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/KlevertonOliveira/ShopApp---ReactJS/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/KlevertonOliveira/Image-Finder-App-ReactJS/blob/master/LICENSE)
 
 ---
 
 ## :art: Layout web
-![Alt Text](assets/shopApp.gif)
+![Alt Text](assets/image-finder.gif)
 
 
 
