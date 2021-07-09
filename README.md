@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Image Finder App / App de Busca de Imagem
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/KlevertonOliveira/ShopApp---ReactJS/blob/master/LICENSE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## :art: Layout web
+![Alt Text](assets/shopApp.gif)
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Project Presentation](https://klevoliveira-imagefinderapp.netlify.app) /
+[Apresentação do Projeto](https://klevoliveira-imagefinderapp.netlify.app)
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :mag_right: About the project / Sobre o projeto
 
-### `yarn build`
+Image Finder App is a Front End application created with the objective to practice the development of web applications using the ReactJS library in conjunction with the user interface development framework Material UI. The idea of developing this application was inspired by the project of the same name shown in a video on the Youtube channel called Traversy Media (https://www.youtube.com/watch?v=dzOrUmK4Qyw&t=2319s), however, the implementation of this project was made in a distinctive way.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The project consists in the search of images through the input provided by the user, who can also define the number of images that he/she wants the search to return (with a minimum of 5 images and a maximum of 30). To obtain the information related to the searched images, this application makes use of the Pixabay's API.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Image Finder App é uma aplicação Front End criada com o objetivo de praticar o desenvolvimento de aplicações web utilizando a biblioteca ReactJS em união com o framework de desenvolvimento de interface de usuário Material UI. A ideia de desenvolvimento desta aplicação foi inspirada pelo projeto de mesmo nome exibido em vídeo do canal de Youtube denominado Traversy Media (https://www.youtube.com/watch?v=dzOrUmK4Qyw&t=2319s), contudo, a implementação deste projeto foi feita de forma distinta.
 
-### `yarn eject`
+O projeto consiste na busca de imagens através da entrada de dados fornecida pelo usuário, o qual pode definir também a quantidade de imagens que deseja que a busca retorne (sendo o mínimo de 5 imagens e o máximo de 30). Para obter as informações relativas às imagens buscadas, a aplicação faz uso da API do site Pixabay.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :gear: Technologies Used / Tecnologias utilizadas
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Front end
+- HTML5
+- Material UI
+- CSS3
+- React JS
+- Javascript ES6
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :file_folder: How to run the project / Como executar o projeto
 
-## Learn More
+Prerequisites / Pré-requisitos: npm / yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone repository / Clonar repositório
+git clone https://github.com/KlevertonOliveira/Image-Finder-App-ReactJS.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Enter the project folder / Entrar na pasta do projeto
+cd Image-Finder-App-ReactJS
 
-### Code Splitting
+# Install dependencies / Instalar dependências
+yarn install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Run the project / Executar o projeto
+yarn start
+```
 
-### Analyzing the Bundle Size
+## :raising_hand_man: Author / Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+José Kleverton Yvens Oliveira
 
-### Making a Progressive Web App
+https://www.linkedin.com/in/kleverton-oliveira/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
