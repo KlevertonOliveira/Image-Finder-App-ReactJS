@@ -10,8 +10,8 @@
 
 ---
 
-[Project Presentation](https://klevoliveira-imagefinderapp.netlify.app) /
-[Apresentação do Projeto](https://klevoliveira-imagefinderapp.netlify.app)
+[Project Presentation](https://imagefinder-klevertonoliveira.netlify.app/) /
+[Apresentação do Projeto](https://imagefinder-klevertonoliveira.netlify.app/)
 
 ---
 
@@ -54,7 +54,7 @@ yarn install
 
 # Create a Pixabay Account and get the API Key / Crair uma conta da Pixabay e obter a chave da API;
 
-# Create a .env.local file following the example at .env.example;
+# Create a .env.local file following the example at .env.example / Criar um arquivo .env.local seguind o exemplo do arquivo .env.example;
 
 # Run the project / Executar o projeto
 yarn start
