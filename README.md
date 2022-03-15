@@ -5,12 +5,12 @@
 
 ## :art: Layout web
 
-https://user-images.githubusercontent.com/71989630/158416816-76013f72-f267-49f0-b7d1-f2edd9b89317.mp4
+https://user-images.githubusercontent.com/71989630/158417409-a92e93ae-151c-438b-9ec5-a30b16552f71.mp4
 
 ---
 
-[Project Presentation](https://imagefinder-klevertonoliveira.netlify.app/) /
-[Apresentação do Projeto](https://imagefinder-klevertonoliveira.netlify.app/)
+[Live Project](https://imagefinder-klevertonoliveira.netlify.app/) /
+[Projeto Ao Vivo](https://imagefinder-klevertonoliveira.netlify.app/)
 
 ---
 
@@ -51,9 +51,11 @@ cd Image-Finder-App-ReactJS
 # Install dependencies / Instalar dependências
 yarn install
 
-# Create a Pixabay Account and get the API Key / Crair uma conta da Pixabay e obter a chave da API;
+# Create a Pixabay Account and get the API Key /
+Criar uma conta da Pixabay e obter a chave da API;
 
-# Create a .env.local file following the example at .env.example / Criar um arquivo .env.local seguind o exemplo do arquivo .env.example;
+# Create a .env.local file following the example at .env.example / 
+Criar um arquivo .env.local seguind o exemplo do arquivo .env.example;
 
 # Run the project / Executar o projeto
 yarn start
