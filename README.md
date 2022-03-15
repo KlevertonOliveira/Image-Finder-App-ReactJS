@@ -1,4 +1,4 @@
-# Image Finder App / App de Busca de Imagem
+#  :framed_picture: Image Finder App / App de Busca de Imagem
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/KlevertonOliveira/Image-Finder-App-ReactJS/blob/master/LICENSE)
 
 ---
@@ -8,6 +8,8 @@
 https://user-images.githubusercontent.com/71989630/158417409-a92e93ae-151c-438b-9ec5-a30b16552f71.mp4
 
 ---
+
+## :link: Links
 
 [Live Project](https://imagefinder-klevertonoliveira.netlify.app/) /
 [Projeto Ao Vivo](https://imagefinder-klevertonoliveira.netlify.app/)
