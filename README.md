@@ -51,11 +51,9 @@ cd Image-Finder-App-ReactJS
 # Install dependencies / Instalar dependências
 yarn install
 
-# Create a Pixabay Account and get the API Key /
-Criar uma conta da Pixabay e obter a chave da API;
+# Create a Pixabay Account and get the API Key / Criar uma conta da Pixabay e obter a chave da API;
 
-# Create a .env.local file following the example at .env.example / 
-Criar um arquivo .env.local seguind o exemplo do arquivo .env.example;
+# Create a .env.local file following the example at .env.example / Criar um arquivo .env.local seguind o exemplo do arquivo .env.example;
 
 # Run the project / Executar o projeto
 yarn start
