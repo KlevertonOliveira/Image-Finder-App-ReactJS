@@ -17,13 +17,13 @@
 
 ## :mag_right: About the project / Sobre o projeto
 
-Image Finder App is a Front End application created with the objective to practice the development of web applications using the ReactJS library in conjunction with the user interface development framework Material UI. The idea of developing this application was inspired by the project of the same name shown in a video on the Youtube channel called Traversy Media (https://www.youtube.com/watch?v=dzOrUmK4Qyw&t=2319s), however, the implementation of this project was made in a distinctive way.
+Image Finder App is a Front End application created with the objective to practice the development of web applications using the ReactJS library in conjunction with the user interface development framework Material UI. The idea of developing this application was inspired by the project of the same name shown in a video on the Youtube channel called Traversy Media, however, the implementation of this project was made in a distinctive way.
 
 The project consists in the search of images through the input provided by the user, who can also define the number of images that he/she wants the search to return (with a minimum of 5 images and a maximum of 30). To obtain the information related to the searched images, this application makes use of the Pixabay's API.
 
 ---
 
-Image Finder App é uma aplicação Front End criada com o objetivo de praticar o desenvolvimento de aplicações web utilizando a biblioteca ReactJS em união com o framework de desenvolvimento de interface de usuário Material UI. A ideia de desenvolvimento desta aplicação foi inspirada pelo projeto de mesmo nome exibido em vídeo do canal de Youtube denominado Traversy Media (https://www.youtube.com/watch?v=dzOrUmK4Qyw&t=2319s), contudo, a implementação deste projeto foi feita de forma distinta.
+Image Finder App é uma aplicação Front End criada com o objetivo de praticar o desenvolvimento de aplicações web utilizando a biblioteca ReactJS em união com o framework de desenvolvimento de interface de usuário Material UI. A ideia de desenvolvimento desta aplicação foi inspirada pelo projeto de mesmo nome exibido em vídeo do canal de Youtube denominado Traversy Media, contudo, a implementação deste projeto foi feita de forma distinta.
 
 O projeto consiste na busca de imagens através da entrada de dados fornecida pelo usuário, o qual pode definir também a quantidade de imagens que deseja que a busca retorne (sendo o mínimo de 5 imagens e o máximo de 30). Para obter as informações relativas às imagens buscadas, a aplicação faz uso da API do site Pixabay.
 
@@ -51,6 +51,10 @@ cd Image-Finder-App-ReactJS
 
 # Install dependencies / Instalar dependências
 yarn install
+
+# Create a Pixabay Account and get the API Key / Crair uma conta da Pixabay e obter a chave da API;
+
+# Create a .env.local file following the example at .env.example;
 
 # Run the project / Executar o projeto
 yarn start

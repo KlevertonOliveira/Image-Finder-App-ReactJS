@@ -3,7 +3,7 @@ require('dotenv').config()
 
 const AppContext = React.createContext()
 
-const apiKey = process.env.REACT_APP_API_KEY
+const apiKey = process.env.REACT_APP_API_KEY;
 
 export const AppProvider = ({ children }) => {
   const [searchTerm, setSearchTerm] = useState('')
