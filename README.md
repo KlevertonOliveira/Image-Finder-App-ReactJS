@@ -4,9 +4,8 @@
 ---
 
 ## :art: Layout web
-![Alt Text](assets/image-finder.gif)
 
-
+https://user-images.githubusercontent.com/71989630/158416816-76013f72-f267-49f0-b7d1-f2edd9b89317.mp4
 
 ---
 
